@@ -30,7 +30,7 @@ It contains what can be considered official interpretations of themes and plot p
 
 [Click me](https://github.com/dekuNukem/Kentucky_Route_Zero_Official_Dev_Wiki/archive/master.zip) to download the photo album. (102 photos 140MB)
 
-Sort by name for correct order.
+Sort by name for the correct order.
 
 ## Credits
 
