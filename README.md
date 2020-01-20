@@ -26,9 +26,9 @@ This wiki features spoilers from Act 1 to Act 4. Act 5 was unreleased at the tim
 
 It contains what can be considered official interpretations of themes and plot points in the game, as well as detailed narrative summary, character design notes, overworld design notes, character developments, GDC talk notes, and countless fascinating tidbits.
 
-## Download the album
+## Download
 
-[Click me](./photos) to download the photo album. (102 photos 140MB)
+[Click me](https://github.com/dekuNukem/Kentucky_Route_Zero_Official_Dev_Wiki/archive/master.zip) to download the photo album. (102 photos 140MB)
 
 ## Credits
 
