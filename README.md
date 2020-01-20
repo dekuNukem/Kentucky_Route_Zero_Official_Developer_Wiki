@@ -1,4 +1,4 @@
-# Kentucky Route Zero Developer Wiki
+# Kentucky Route Zero Official Developer Wiki
 
 This repo contains the official developer wiki for Kentucky Route Zero.
 
