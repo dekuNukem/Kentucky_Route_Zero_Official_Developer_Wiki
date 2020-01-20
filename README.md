@@ -2,7 +2,7 @@
 
 This repo contains the official developer wiki for Kentucky Route Zero.
 
-![whatever](title/title.jpg)
+![whatever](photos/title.jpg)
 
 It was an interactive display as part of the [`Videogames: Design/Play/Disrupt`](https://www.vam.ac.uk/exhibitions/videogames) exhibition at Victoria and Albert Museum in London, ran from 8 September 2018 to 24 February 2019.
 
