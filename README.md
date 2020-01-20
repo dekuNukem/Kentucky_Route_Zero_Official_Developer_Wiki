@@ -22,7 +22,7 @@ The description states:
 
 ## Spoiler alert!
 
-This wiki features spoilers from Act 1 to Act 4. Act 5 was unreleased at the time.
+This wiki features spoilers from Act 1 to Act 4. (Act 5 was unreleased at the time)
 
 It contains what can be considered official interpretations of themes and plot points in the game, as well as detailed narrative summary, character design notes, overworld design notes, character developments, GDC talk notes, and countless fascinating tidbits.
 
