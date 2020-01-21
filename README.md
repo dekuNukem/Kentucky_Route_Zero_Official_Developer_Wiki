@@ -22,7 +22,7 @@ Feel free to use the photos, but please credit me.
 
 ## Content
 
-[Click me](https://github.com/dekuNukem/Kentucky_Route_Zero_Official_Dev_Wiki/archive/master.zip) to download the photo album. (102 photos 140MB) Sort by name for the correct order.
+Scroll down to see the photos, or [click me](https://github.com/dekuNukem/Kentucky_Route_Zero_Official_Dev_Wiki/archive/master.zip) to download the entire album (102 photos 140MB). Sort by name for the correct order.
 
 ![whatever](photos/IMG_2516.jpeg)
 
