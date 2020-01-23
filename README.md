@@ -20,7 +20,7 @@ This wiki features...
 
 * Sources of inspiration
 
-* Scrapped scenes, locations, plot lines, and cut content
+* Cut content: Scrapped scenes, locations, plot lines, etc.
 
 * GDC talk notes
 
