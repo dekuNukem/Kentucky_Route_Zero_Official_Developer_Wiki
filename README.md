@@ -8,9 +8,23 @@ The exhibition ran from 8 September 2018 to 24 February 2019.
 
 ## Spoiler alert!
 
-This wiki features spoilers from Act 1 to Act 4. (Act 5 was unreleased at the time)
+This wiki features...
 
-It contains what can be considered official interpretations of themes and plot points in the game, as well as detailed narrative summary, character design notes, overworld design notes, character developments, GDC talk notes, and countless fascinating tidbits.
+* Spoilers from Act 1 to Act 4 (Act 5 was unreleased at the time)
+
+* Official interpretations of themes and plot points
+
+* Detailed narrative summary
+
+* Character and overworld design notes
+
+* Sources of inspiration
+
+* Scrapped scenes, locations, plot lines, and cut content
+
+* GDC talk notes
+
+* Countless fascinating and behind-the-scene tidbits!
 
 ## Credits
 
